@@ -21,8 +21,3 @@ VaultGuard is a native macOS application and Finder extension designed to secure
 3. Launch VaultGuard. Providing **Full Disk Access** inside macOS System Settings is recommended for seamless operation outside standard directories.
 4. Open **System Settings > Extensions > Finder Extensions** and enable the VaultGuard Finder extension.
 5. In Finder, right-click any folder inside your Home directory and select **Lock with VaultGuard 🔒**.
-
-
-## License
-
-This project is licensed under a custom Non-Commercial License. It is strictly **free for personal use only**. Any commercial, enterprise, or business usage of this software is completely prohibited. See the [LICENSE](LICENSE) file for the full license text.
